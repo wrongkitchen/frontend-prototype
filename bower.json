@@ -1,0 +1,11 @@
+{
+  "name": "requirejs",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.8.3",
+    "underscore": "~1.5.2",
+    "backbone": "~1.1.0",
+    "requirejs": "~2.1.10"
+  },
+  "devDependencies": {}
+}
